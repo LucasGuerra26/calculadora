@@ -1,3 +1,4 @@
 # calculadora
-Calculadora em java
+> Calculadora em java com Swing
+
 <img src="img/display.png">
