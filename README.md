@@ -1,3 +1,3 @@
 # calculadora
 Calculadora em java
-<img src="calculadora/img/display.png">
+<img src="img/display.png">
